@@ -9,7 +9,7 @@ on:
 env:
   PROJECT_ID: cloudrun-ghactions
   GAR_LOCATION: asia-east1
-  SERVICE: fastapi_cloudrun_gh_actions
+  SERVICE: fastapi-cloudrun-gh-actions
   REGION: asia-east1
 
 jobs:
